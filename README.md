@@ -1,2 +1,6 @@
 # EDA-Apache-Beam
-As part of my Data Mining coursework, I have created this assignment repository to display my work on EDA phase and Apache Beam.
+As part of my Data Mining coursework, I have created this assignment repository to display my work on EDA phase and Apache Beam. There are three subsections of this:
+
+1. EDA with D3.js: Exploratory Data Analysis (EDA) performed on the [30000 Spotify Songs dataset](https://www.kaggle.com/datasets/joebeachcapital/30000-spotify-songs) with visualization libraries like Matplotlib, Plotly, Seaborn, and D3.js. For more details, view the original [colab](https://colab.research.google.com/drive/1vYD5mglzVJIxOMxIV9ca6GFP44CfrQjT?usp=sharing).
+2. AutoEDA: EDA performed on the [UCI Heart Disease dataset](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data) using sweetviz tool to create various reports.  For more details, view the original [colab](https://colab.research.google.com/drive/1Jw72Ojwuds9bvP-6QfzlxyixV_bzg2I2?usp=sharing).
+3. Apache Beam: Utilized different Apache Beam features to perform data engineering tasks on the [Bank Marketing Dataset](https://www.kaggle.com/datasets/berkayalan/bank-marketing-data-set). For more details, view the original [colab](https://colab.research.google.com/drive/17QuVwJuw6LsJap7tCQHjRXOEa2qb7ulY?usp=sharing) and Youtuber video (link will be attached later).
